@@ -1,0 +1,27 @@
+
+/* {
+    border: solid 1px red;
+   } */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row{
+    border: solid 1px black;
+}
+.w-100{
+    background-color: rgb(235, 235, 235);
+    border: solid 1px rgb(224, 224, 224);
+}
+.bg-secondary{
+    margin-bottom: solid 1px black;
+}
+form{
+    padding: 0%;
+    margin: 6%;
+}
+form *{
+    margin-left: 0px;
+}
+.radio{
+    padding-right: 3px;
+}
